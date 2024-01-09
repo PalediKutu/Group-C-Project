@@ -1,0 +1,14 @@
+C:\Users\amese\source\repos\PRG262 Project\PRG262 Project\bin\Debug\PRG262 Project.exe.config
+C:\Users\amese\source\repos\PRG262 Project\PRG262 Project\bin\Debug\PRG262 Project.exe
+C:\Users\amese\source\repos\PRG262 Project\PRG262 Project\bin\Debug\PRG262 Project.pdb
+C:\Users\amese\source\repos\PRG262 Project\PRG262 Project\obj\Debug\PRG262 Project.csproj.AssemblyReference.cache
+C:\Users\amese\source\repos\PRG262 Project\PRG262 Project\obj\Debug\PRG262 Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\amese\source\repos\PRG262 Project\PRG262 Project\obj\Debug\PRG262_Project.Form1.resources
+C:\Users\amese\source\repos\PRG262 Project\PRG262 Project\obj\Debug\PRG262_Project.Properties.Resources.resources
+C:\Users\amese\source\repos\PRG262 Project\PRG262 Project\obj\Debug\PRG262_Project.Register.resources
+C:\Users\amese\source\repos\PRG262 Project\PRG262 Project\obj\Debug\PRG262 Project.csproj.GenerateResource.cache
+C:\Users\amese\source\repos\PRG262 Project\PRG262 Project\obj\Debug\PRG262 Project.csproj.CoreCompileInputs.cache
+C:\Users\amese\source\repos\PRG262 Project\PRG262 Project\obj\Debug\PRG262 Project.exe
+C:\Users\amese\source\repos\PRG262 Project\PRG262 Project\obj\Debug\PRG262 Project.pdb
+C:\Users\amese\source\repos\PRG262 Project\PRG262 Project\obj\Debug\PRG262_Project.Main_Menu.resources
+C:\Users\amese\source\repos\PRG262 Project\PRG262 Project\obj\Debug\PRG262_Project.Delete.resources
